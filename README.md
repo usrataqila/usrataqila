@@ -1,9 +1,6 @@
 <div align="center">
-<img src="https://media1.tenor.com/m/DVXNuYXLyGUAAAAd/raining-pixel.gif" width="500"/>
-</div>
-
-
-<div align="center">
+<img src="https://media.tenor.com/xA4q0AO9UH0AAAAM/keyboard-hanamaru-kindergarten.gif" width="500"/>
+</div> 
 
 # Hi , I'm Aqila Usrat! 🐱
 
