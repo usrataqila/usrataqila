@@ -41,7 +41,7 @@
 - 🐱 Photography
 ### 📊 GitHub Stats
 
-![Usrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=usrataqila&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usrataqila&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=usrataqila&theme=tokyonight)
 
