@@ -33,17 +33,12 @@
 ---
 
 ### 🎮 Current Interests
----
 
-<div align="center">
-
-*Pixel art and game development* 🌿
-
-</div>
----
-
-<div align="center">
-
+- 🎨 Pixel Art & Animation
+- 🎮 Game Development
+- 🌐 Frontend Development
+- 🧩 Problem Solving
+- 🐱 Cats & photography
 ### 📊 GitHub Stats
 
 ![Usrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=usrataqila&show_icons=true&theme=tokyonight&hide_border=true)
