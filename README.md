@@ -1,11 +1,12 @@
 <div align="center">
-<img src="https://media.tenor.com/xA4q0AO9UH0AAAAM/keyboard-hanamaru-kindergarten.gif" width="500"/>
+<img src="https://giffiles.alphacoders.com/425/4256.gif"/>
 </div> 
 
 
 <div align="center">
 
-# Hi , I'm Aqila Usrat! 🐱
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C8A2C8&center=true&vCenter=true&width=600&lines=Hi!+I+am+Aqila+Usrat+🐱)
+
 
 ### 🎮 CSE Student | Game Dev Enthusiast | Pixel Art Lover
 
