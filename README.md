@@ -37,6 +37,17 @@
 
 <div align="center">
 
-*"Pixel art and game development"* 🌿
+*Pixel art and game development* 🌿
+
+</div>
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+![Usrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=usrataqila&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=usrataqila&theme=tokyonight)
 
 </div>
