@@ -2,6 +2,9 @@
 <img src="https://media.tenor.com/xA4q0AO9UH0AAAAM/keyboard-hanamaru-kindergarten.gif" width="500"/>
 </div> 
 
+
+<div align="center">
+
 # Hi , I'm Aqila Usrat! 🐱
 
 ### 🎮 CSE Student | Game Dev Enthusiast | Pixel Art Lover
