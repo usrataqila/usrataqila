@@ -38,10 +38,10 @@
 - 🎮 Game Development
 - 🌐 Frontend Development
 - 🧩 Problem Solving
-- 🐱 Cats & photography
+- 🐱 Photography
 ### 📊 GitHub Stats
 
-![Usrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=usrataqila&show_icons=true&theme=tokyonight&hide_border=true)
+![Usrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=usrataqila&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=usrataqila&theme=tokyonight)
 
