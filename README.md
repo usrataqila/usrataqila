@@ -1,6 +1,11 @@
 <div align="center">
+<img src="https://media1.tenor.com/m/DVXNuYXLyGUAAAAd/raining-pixel.gif" width="500"/>
+</div>
 
-# Hi there, I'm Aqila Usrat! 🐱
+
+<div align="center">
+
+# Hi , I'm Aqila Usrat! 🐱
 
 ### 🎮 CSE Student | Game Dev Enthusiast | Pixel Art Lover
 
