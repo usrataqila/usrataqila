@@ -15,7 +15,7 @@
 - 🎨 Love creating **Pixel Art** & **Animations**
 - 💻 Exploring **Frontend Development**
 - 🧩 Enjoy **Problem Solving**
-- 🐱 Cat lover | Tree hugger | Cozy vibes only
+- 🐱 Cat lover 
 
 ---
 
