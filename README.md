@@ -37,6 +37,6 @@
 
 <div align="center">
 
-*"Making the world cozier, one pixel at a time"* 🌿
+*"Pixel art and game development"* 🌿
 
 </div>
